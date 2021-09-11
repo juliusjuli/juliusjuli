@@ -8,4 +8,4 @@
 juliusjuli/juliusjuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi am julius onyi, interestedin learning programming languages like java,python,javasript,and other fulstack programming languages.
+Hi am julius onyi, interested in learning programming languages like java,python,javasript,and other fulstack programming languages.am looking forward to collaborate with those who are intered so that we can work together to improve our skills or help me shape my programming skills.You can reach me on 
